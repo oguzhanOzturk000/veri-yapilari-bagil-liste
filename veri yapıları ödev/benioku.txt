@@ -1,0 +1,1 @@
+Programın Dna.txt ve Islemler.txt dosyalarını okuyabilmesi için dosyayı C:'nin hemen altına koyup ya da programın içinden dnaPath ve islemlerPath değişkenlerini dosyaların bilgisayarınızdaki yollarıyla değiştirip de çalıştırınız 
